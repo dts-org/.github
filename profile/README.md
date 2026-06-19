@@ -10,7 +10,7 @@ The diagram below shows the overall data flow - from producers, through the Kafk
 <img width="1733" height="620" alt="data_streaming" src="https://github.com/user-attachments/assets/581c068d-2b72-4ba2-ad8c-7f1e95672ae9" />
 
 
-# Respoitories
+# Repositories
 
 Each component lives in its own repository:
 
